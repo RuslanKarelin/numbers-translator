@@ -1,0 +1,25 @@
+{
+    "name": "karelin/numbers-translator",
+    "description": "Translating numbers into English",
+    "keywords": ["translator","numbers","english"],
+    "homepage": "https://github.com/RuslanKarelin/numbers-translator",
+    "license": "MIT",
+    "minimum-stability": "v1.0.0",
+    "authors": [
+        {
+            "name": "Ruslan Karelin",
+            "email": "ruslankarelin68@yandex.ru",
+            "homepage": "https://github.com/RuslanKarelin",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+	    "psr-4": {"NumbersTranslator\\": "src/"}
+	},
+    "require": {
+        "php": ">=7.3.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9"
+    }
+}
