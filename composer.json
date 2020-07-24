@@ -4,7 +4,7 @@
     "keywords": ["translator","numbers","english"],
     "homepage": "https://github.com/RuslanKarelin/numbers-translator",
     "license": "MIT",
-    "minimum-stability": "v1.0.0",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "Ruslan Karelin",
